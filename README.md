@@ -47,6 +47,10 @@ To better visualize clustering in 2D, the dimension is reduced using PCA.
 
 Although finally we need to check the best no of clusters practically, this is just to visualize how data is connected and the hierarchy in it.
 
+Example of working of dendogram:
+
+![](https://i.imgur.com/0bm4IRL.png)
+
 **Visualizing Clusters**
 We did agglomerative clustering with a number of clusters = {2,3,4,5,6}.
 - Method 1: dropping rows and columns with NaN values
